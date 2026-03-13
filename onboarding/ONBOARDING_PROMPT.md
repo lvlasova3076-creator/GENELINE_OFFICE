@@ -66,6 +66,7 @@ cd AI_OFFICE
 |----------------|-----------|
 | Управляет людьми/бизнесом | daily_brief, research, qa, scout_market |
 | Ведёт соцсети/контент | daily_brief, research, qa, content, smm_calendar |
+| Упоминает конкурентов/тренды/рынок | + scout_market (независимо от роли) |
 | Оба варианта | все 6 скиллов |
 
 **4. Сгенерируй CLAUDE.md** — из шаблона templates/CLAUDE_CLIENT.md:
