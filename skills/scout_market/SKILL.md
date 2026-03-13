@@ -2,7 +2,7 @@
 name: scout_market
 description: Разведка рынка — конкуренты, тренды отрасли, возможности, угрозы
 version: "1.0"
-type: profile_executive
+type: universal
 ---
 
 # /scout_market — Разведка рынка
