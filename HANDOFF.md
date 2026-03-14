@@ -16,9 +16,10 @@
 - Структура: создана archive/, перемещены DEV.md, onboarding/, ONBOARDING_QUESTIONS.md
 
 **Что есть в офисе сейчас:**
-- CLAUDE.md — правила работы (финальная версия, обновлено 14.03)
-- ERRORS.md — 3 ошибки зафиксированы
+- CLAUDE.md — правила работы + система накопления опыта (обновлено 14.03)
+- ERRORS.md — журнал ошибок (3 записи)
 - refs/AUDIT_CHECKLIST.md — чек-лист аудита
+- refs/WINS.md — журнал что работает (создан 14.03, 4 первых записи)
 - reports/content/instagram_audit_2026-03-13.md — аудит @doctor__gusarova
 - reports/smm_calendar/2026-03-16_22.md — контент-план 16–22 марта
 - COMPANY.md — частично (конкуренты, цели, средний чек не заполнены)
